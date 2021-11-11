@@ -24,6 +24,6 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           subject: Xi'an Weather Report
           body: file://result.html
-          to: 1160535026@qqcom
+          to: 1160535026@qq.com
           from: GitHub Actions
           content_type: text/html
